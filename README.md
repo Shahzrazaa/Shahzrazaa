@@ -18,35 +18,19 @@ My current focus is the intersection of **customer analytics, retention strategy
 - AI-assisted workflows, APIs, and operational automation
 - E-commerce and digital operations
 
-## Selected Analytical Work
+## Featured Project
 
-### Customer Churn Prediction & Retention Strategy
-Academic analytics project using a **10,000-customer banking dataset**.
+### [Customer Churn Prediction & Retention Strategy](https://github.com/Shahzrazaa/customer-churn-retention-strategy)
 
-- Built a churn prediction workflow using **RStudio and Excel**
-- Analyzed customer-level variables related to churn
-- Achieved **79% classification accuracy**
-- Evaluated four retention-policy scenarios
-- Compared offer costs, customer value, conversion assumptions, and projected revenue impact
-- Focused on translating predictive analysis into practical retention decisions
+Academic business analytics project from IBA Karachi using a **10,000-customer banking dataset**.
 
-### Black Friday Market Basket Analysis
-Customer-behavior project using a large retail transaction dataset.
+- Built a churn-prediction workflow using **RStudio and Excel**
+- Reported **79% classification accuracy**
+- Evaluated four customer-retention scenarios
+- Connected churn risk to offer cost, customer value, conversion assumptions, and projected revenue
+- Preserved the original project results while clearly separating them from a modern reproduction scaffold
 
-- Worked with approximately **550,000 transactions**
-- Cleaned and analyzed data in R
-- Applied market basket analysis to identify product associations
-- Used support, confidence, and lift to evaluate relationships
-- Connected findings to bundling, promotions, category management, and shopper behavior
-
-### Predictive Analytics & Regression
-Worked on additional analytical projects involving:
-
-- Boston Housing price prediction
-- Regression modeling in Excel and R
-- Train/test data splitting
-- Variable selection and model comparison
-- Business interpretation of statistical outputs
+This is the kind of work I enjoy most: analysis that leads to a practical customer or business decision.
 
 ## Experience Highlights
 
