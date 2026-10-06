@@ -18,7 +18,7 @@ My current focus is the intersection of **customer analytics, retention strategy
 - AI-assisted workflows, APIs, and operational automation
 - E-commerce and digital operations
 
-## Featured Project
+## Featured Work
 
 ### [Customer Churn Prediction & Retention Strategy](https://github.com/Shahzrazaa/customer-churn-retention-strategy)
 
@@ -30,7 +30,27 @@ Academic business analytics project from IBA Karachi using a **10,000-customer b
 - Connected churn risk to offer cost, customer value, conversion assumptions, and projected revenue
 - Preserved the original project results while clearly separating them from a modern reproduction scaffold
 
-This is the kind of work I enjoy most: analysis that leads to a practical customer or business decision.
+### [CatalogFlow AI — Catalog Data Operations](https://github.com/Shahzrazaa/catalogflow-ai-data-operations)
+
+Working local Python prototype for turning inconsistent vendor files into cleaner, reviewable, export-ready product data.
+
+- CSV / TSV / Excel ingestion and field auto-mapping
+- Data cleaning, normalization, calculated inventory/margin fields, and category summaries
+- Basic data-quality scoring and before/after QA
+- Deterministic template enrichment plus optional OpenAI / Anthropic enrichment
+- Clean CSV and multi-sheet Excel exports
+- Safe fictional sample data and automated smoke tests
+
+### [Revenue Hunter OS](https://github.com/Shahzrazaa/revenue-hunter-os)
+
+FastAPI portfolio project for converting opportunity research into a ranked action queue and lightweight sales pipeline.
+
+- Transparent heuristic opportunity scoring
+- Paid-trial pitch generation and pipeline tracking
+- JSON API and health endpoint
+- Channel-level pipeline / collected-revenue reporting
+- Optional one-at-a-time Proton Bridge email sending
+- Public repo uses fictional demo opportunities rather than private prospect data
 
 ## Experience Highlights
 
