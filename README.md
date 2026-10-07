@@ -1,86 +1,91 @@
 # Shahzad Raza
 
-**Product Experience | Customer Analytics | Business Operations | AI Automation**
+**Customer & Marketing Analytics · Product Experience · E-commerce · AI-Enabled Operations**
 
-Karachi, Pakistan
+Karachi, Pakistan · [LinkedIn](https://www.linkedin.com/in/shahzadrazaa/)
 
-I am a BBA graduate from **IBA Karachi** with experience across product experience, customer-facing operations, research, e-commerce, and business operations. I previously worked as a **Product Experience Analyst at US Mobile**, handling complex customer and product issues, troubleshooting, escalations, recurring issue analysis, and cross-functional resolution.
+I work at the intersection of **customer data, commercial decisions, product experience, and practical automation**.
 
-My current focus is the intersection of **customer analytics, retention strategy, product experience, process improvement, and AI-enabled automation**.
+I am a BBA graduate from **IBA Karachi** with experience across product/customer operations, research, e-commerce, marketplace advertising, and applied AI. I previously worked as a **Product Experience Analyst at US Mobile**, handling complex customer/product issues, troubleshooting, escalations, recurring-issue analysis, and cross-functional resolution.
 
-## What I Work On
+My analytics background goes back to university work in **SPSS, Excel, and R**, and now extends into **Power BI, Python, APIs, AI-assisted workflows, and cloud AI experimentation**.
 
-- Customer churn and retention analysis
-- Customer behavior and product experience analytics
-- Root-cause analysis for recurring customer and operational issues
-- Business process improvement and workflow design
-- Data analysis using Excel, R, and Python
-- AI-assisted workflows, APIs, and operational automation
-- E-commerce and digital operations
+> I prefer work where analysis changes a decision — who to retain, what to prioritize, how to measure performance, or how to improve a workflow.
 
-## Featured Work
+## Featured public projects
 
-### [Customer Churn Prediction & Retention Strategy](https://github.com/Shahzrazaa/customer-churn-retention-strategy)
+| Project | Business problem | What it demonstrates |
+| --- | --- | --- |
+| [**Customer Churn Prediction & Retention Strategy**](https://github.com/Shahzrazaa/customer-churn-retention-strategy) | Which customers are at risk, and which retention offers make commercial sense? | RStudio, Excel, churn analysis, retention economics, business interpretation |
+| [**CatalogFlow AI**](https://github.com/Shahzrazaa/catalogflow-ai-data-operations) | How can inconsistent vendor catalog files become cleaner, reviewable, export-ready data? | Python, data cleaning, QA, CSV/Excel processing, APIs, optional LLM enrichment |
+| [**Revenue Hunter OS**](https://github.com/Shahzrazaa/revenue-hunter-os) | How can scattered opportunities become a ranked action queue and measurable pipeline? | FastAPI, scoring logic, workflow design, lightweight CRM logic, APIs |
 
-Academic business analytics project from IBA Karachi using a **10,000-customer banking dataset**.
+Both current software prototypes include automated smoke tests through GitHub Actions.
 
-- Built a churn-prediction workflow using **RStudio and Excel**
-- Reported **79% classification accuracy**
-- Evaluated four customer-retention scenarios
-- Connected churn risk to offer cost, customer value, conversion assumptions, and projected revenue
-- Preserved the original project results while clearly separating them from a modern reproduction scaffold
+## Selected case studies
 
-### [CatalogFlow AI — Catalog Data Operations](https://github.com/Shahzrazaa/catalogflow-ai-data-operations)
+These write-ups describe evidence-backed work whose original files are kept privately rather than publishing sensitive or third-party data.
 
-Working local Python prototype for turning inconsistent vendor files into cleaner, reviewable, export-ready product data.
+- [**Statistical Analysis & SPSS**](case-studies/statistical-analysis-spss.md) — descriptive statistics, chi-square, t-tests, correlation, regression, ANOVA/model interpretation, and research support.
+- [**E-commerce PPC & Marketplace Operations**](case-studies/ecommerce-ppc-marketplace-operations.md) — Amazon campaign planning, Seller Central work, product/keyword research, listing optimization, and founder-side execution.
+- [**Consumer Research & Marketing Analysis**](case-studies/consumer-research-marketing.md) — depth interviews, coding, concept mapping, survey analysis, brand strategy, and insight synthesis.
+- [**Aster House — Private Multi-Model AI Workspace**](case-studies/aster-house.md) — live private prototype exploring multi-provider AI, persistent preferences, private workspace concepts, and a roadmap toward automatic model routing.
+- [**AI Infrastructure & GPU Inference Experiments**](case-studies/ai-infrastructure-gpu-inference.md) — RunPod, ComfyUI, Wan workflows, CLIP Vision, persistent storage, GPU telemetry, and compatibility troubleshooting.
 
-- CSV / TSV / Excel ingestion and field auto-mapping
-- Data cleaning, normalization, calculated inventory/margin fields, and category summaries
-- Basic data-quality scoring and before/after QA
-- Deterministic template enrichment plus optional OpenAI / Anthropic enrichment
-- Clean CSV and multi-sheet Excel exports
-- Safe fictional sample data and automated smoke tests
+[**Browse all case studies →**](case-studies/README.md)
 
-### [Revenue Hunter OS](https://github.com/Shahzrazaa/revenue-hunter-os)
+## Analytics & measurement
 
-FastAPI portfolio project for converting opportunity research into a ranked action queue and lightweight sales pipeline.
+**Tools:** Excel · IBM SPSS · R / RStudio · Power BI · Python
 
-- Transparent heuristic opportunity scoring
-- Paid-trial pitch generation and pipeline tracking
-- JSON API and health endpoint
-- Channel-level pipeline / collected-revenue reporting
-- Optional one-at-a-time Proton Bridge email sending
-- Public repo uses fictional demo opportunities rather than private prospect data
+**Methods / work:** descriptive analysis · hypothesis testing · correlation · regression · churn analysis · customer segmentation thinking · data visualization · survey analysis · business-case modeling
 
-## Experience Highlights
+I also have hands-on exposure to **Google Ads, Google Analytics, Amazon PPC, Seller Central, marketplace research, and e-commerce performance work**.
 
-**Product Experience Analyst — US Mobile**  
-Analyzed customer and product issues, managed troubleshooting and escalations for U.S. customers, coordinated complex cases across operational and technical workflows, and identified recurring issues for improvement.
+## Customer, product & commercial experience
 
-**E-commerce Consultant — Sellercoop**  
-Supported Amazon Germany and France operations, including product research, marketplace analysis, listing optimization, content, and PPC-related work.
+**US Mobile — Product Experience Analyst**  
+Worked on complex customer and product issues, troubleshooting, escalations, recurring problem patterns, and resolution across operational/technical workflows.
 
-**Co-Founder — Business Venture**  
-Managed day-to-day operations, evaluated workflows, supported decisions with research and data, and explored automation opportunities.
+**Mercari / ibex — Customer Success**  
+Customer-facing support experience in a high-volume digital marketplace environment.
 
-## Tools & Skills
+**Sellercoop — E-commerce Consultant**  
+Worked with Amazon marketplace research, listings, product/keyword analysis, and PPC-related workflows.
 
-**Analytics:** Excel, R, RStudio, Python, Data Analysis, Visualization  
-**Operations:** Process Analysis, Root-Cause Analysis, Documentation, SOPs, Workflow Improvement  
-**Customer & Product:** Product Experience, Customer Insights, Escalation Management, Customer Behavior Analysis  
-**Technology:** APIs, Applied AI, AI-enabled workflows, basic Firebase, basic Machine Learning  
-**Digital:** Shopify, WooCommerce, E-commerce Operations
+**Retail Medley — Co-Founder / Operator**  
+Worked across marketplace operations, PPC, product research, suppliers, inventory, and day-to-day business decisions.
 
-## Current Focus
+## Applied AI & automation
 
-I am building practical projects around:
+My recent work focuses on **using AI as an operating layer**, not just as a chatbot:
 
-- Customer retention and churn
-- Product and customer experience analytics
-- AI-powered business operations
-- Workflow automation
-- Business decision support
+- data-cleaning and enrichment workflows,
+- business prioritization and scoring,
+- multi-model AI product concepts,
+- human-in-the-loop decision systems,
+- API-based automation,
+- and cloud GPU inference experimentation.
+
+For software projects, I use **AI-assisted development**. My contribution is the product framing, workflow design, business logic, analysis, testing, iteration, and decision-making; I do not present AI-assisted code as hand-written-from-scratch engineering.
+
+## Selected evidence
+
+- **Crossover:** reached the final interview stage after being placed in the **top 5% of applicants for the role**.
+- **Power BI:** completed a Coursera Project Network project on preparing, cleaning, transforming, and loading data using Power BI (2022).
+- **IBA Karachi:** received an Outstanding Performance certificate for a Principles of Marketing TVC assignment.
+- Historical SPSS working files and IBM subscription records from university are preserved in a private evidence archive.
+
+## What I am building toward
+
+I am especially interested in roles and projects involving:
+
+**customer / marketing analytics · measurement · retention · product experience · e-commerce · AI-enabled operations · business decision support**
 
 ---
 
-*I prefer projects that connect analysis to real business decisions — not just models for the sake of models.*
+### Portfolio integrity
+
+I keep a private source archive for old projects, screenshots, working files, certificates, and provenance records.
+
+Where a project is **group work, work created for another student/client, a modern reconstruction, a private prototype, or AI-assisted software**, I label it accordingly rather than collapsing everything into “I built this alone.”
