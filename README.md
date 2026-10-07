@@ -72,7 +72,7 @@ For software projects, I use **AI-assisted development**. My contribution is the
 ## Selected evidence
 
 - **Crossover:** reached the final interview stage after being placed in the **top 5% of applicants for the role**.
-- **Power BI:** completed a Coursera Project Network project on preparing, cleaning, transforming, and loading data using Power BI (2022).
+- **Power BI:** completed [*Prepare, Clean, Transform, and Load Data using Power BI*](https://coursera.org/share/5afc2cfe50345eb35db2cd61847deb9e) through Coursera (Sep 2022).
 - **IBA Karachi:** received an Outstanding Performance certificate for a Principles of Marketing TVC assignment.
 - Historical SPSS working files and IBM subscription records from university are preserved in a private evidence archive.
 
