@@ -2,7 +2,7 @@
 
 **Customer & Marketing Analytics · Product Experience · E-commerce · AI-Enabled Operations**
 
-Karachi, Pakistan · [LinkedIn](https://www.linkedin.com/in/shahzadrazaa/)
+Karachi, Pakistan · [LinkedIn](https://www.linkedin.com/in/shahzadrazaa/) · [Kaggle](https://www.kaggle.com/shahzadrazaa)
 
 I work at the intersection of **customer data, commercial decisions, product experience, and practical automation**.
 
@@ -22,6 +22,8 @@ My analytics background goes back to university work in **SPSS, Excel, and R**, 
 
 Both current software prototypes include automated smoke tests through GitHub Actions.
 
+**Kaggle:** [4 public notebooks](https://www.kaggle.com/shahzadrazaa/code) on e-commerce, ads and churn analytics: RFM segmentation & cohort retention, a PPC wasted-spend audit, a retail sales KPI dashboard with a 12-month forecast, and bank churn ML (XGBoost, SHAP & profit targeting).
+
 ## Selected case studies
 
 These write-ups describe evidence-backed work whose original files are kept privately rather than publishing sensitive or third-party data.
@@ -38,7 +40,7 @@ These write-ups describe evidence-backed work whose original files are kept priv
 
 **Tools:** Excel · IBM SPSS · R / RStudio · Power BI · Python
 
-**Methods / work:** descriptive analysis · hypothesis testing · correlation · regression · churn analysis · customer segmentation thinking · data visualization · survey analysis · business-case modeling
+**Methods / work:** descriptive analysis · hypothesis testing · correlation · regression · churn analysis · customer segmentation thinking · data visualization · survey analysis · business-case modeling · RFM segmentation · cohort retention · time-series forecasting · gradient boosting (XGBoost) · SHAP explainability
 
 I also have hands-on exposure to **Google Ads, Google Analytics, Amazon PPC, Seller Central, marketplace research, and e-commerce performance work**.
 
